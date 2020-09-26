@@ -1,5 +1,5 @@
 {
-  "name": "Vniteen/sample-composer-pkg",
+  "name": "vniteen/sample-composer-pkg",
   "type": "library",
   "description": "This is sample composer package for practice",
   "keywords": [
