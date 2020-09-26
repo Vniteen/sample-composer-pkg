@@ -1,0 +1,29 @@
+{
+  "name": "sample-composer-pkg",
+  "type": "library",
+  "description": "This is sample composer package for practice",
+  "keywords": [
+    "sample"
+  ],
+  "homepage": "https://composer.entrata.com",
+  "authors": [
+    {
+      "name": "Entrata, Inc.",
+      "email": "info@entrata.com",
+      "role": "owner"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Psi\\Libraries\\Countries\\": "src/"
+    }
+  }
+}
+
+
+
+
+
