@@ -1,5 +1,5 @@
 {
-  "name": "sample-composer-pkg",
+  "name": "Vniteen/sample-composer-pkg",
   "type": "library",
   "description": "This is sample composer package for practice",
   "keywords": [
@@ -15,11 +15,6 @@
   ],
   "require": {
     "php": ">=7.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Psi\\Libraries\\Countries\\": "src/"
-    }
   }
 }
 
